@@ -1,0 +1,6 @@
+de:
+  devise:
+    failure:
+      invited: "test"
+    invitations:
+      send_instructions: "test 2 %{email}}"
